@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my Github Profile. I am Clinical Data Manager currently working about social care in Albstadt, Germany. Interest in Data Management, Linux
+Welcome to my Github Profile. I am Clinical Data Manager currently working about social care in Albstadt, Germany. Interest in Data Science, Linux
 
 ##Open Source Contributions
 
